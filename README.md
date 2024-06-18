@@ -1,5 +1,5 @@
 ### Whoops!
 
-I was trying to make a Gist for the ****Gotham SSm**** code so that you don't need to pay for the license.
+I attempted to create a Gist for the **Gotham SSm** code, aiming to avoid licensing fees. Unfortunately, it didn't go as planned.
 
-[Back to Github](https://www.github.com])
+Create a gist on Github by clicking [here](https://gist.github.com])
